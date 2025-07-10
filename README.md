@@ -7,13 +7,14 @@ This project uses OpenAI’s GPT model to automatically generate incident respon
 - Automatically generates a `.txt` playbook for each CVE
 - Adds GPT-powered **AI Analysis** to each file
 - Clean `.env` setup to keep API keys secure
+This project calls GPT to analyze CVEs, but AI output is disabled due to API quota.
 ## Folder Structure
 cyberplaybook-ai/
-├── data/ # CVE input JSON
-├── playbooks/ # Output: AI-enhanced playbooks
-├── src/ # Python source code
-├── .env # (Your OpenAI API key - ignored by Git)
-└── README.md # This file
+─ data/ # CVE input JSON
+─ playbooks/ # Output: AI-enhanced playbooks
+─ src/ # Python source code
+─ .env # (Your OpenAI API key - ignored by Git)
+─ README.md # This file
 ## Setup
 1. Clone this repo  
    `git clone https://github.com/Sruti14-05/cyberplaybook-ai.git`
