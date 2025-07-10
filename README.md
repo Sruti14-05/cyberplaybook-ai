@@ -8,7 +8,11 @@ This project uses OpenAI’s GPT model to automatically generate incident respon
 - Adds GPT-powered **AI Analysis** to each file
 - Clean `.env` setup to keep API keys secure
 ## Folder Structure
-<pre> ``` playbooks/ # Output: AI-enhanced playbooks src/ # Python source code .env # Your OpenAI API key (ignored by Git) README.md # This file ``` </pre>
+- data/ # CVE input JSON
+─ playbooks/ # Output: AI-enhanced playbooks
+─ src/ # Python source code
+─ .env # (Your OpenAI API key - ignored by Git)
+─ README.md # This file
 ## Setup
 1. Clone this repo  
    `git clone https://github.com/Sruti14-05/cyberplaybook-ai.git`
@@ -22,7 +26,9 @@ OPENAI_API_KEY=your-key-here
 ### Example Output
 Files are saved in the `playbooks/` folder like:
 playbooks/
-<pre> ``` GHSA-5mxq-jrf7-jcwr.txt GHSA-vc8x-jcfq-84g7.txt GHSA-46j9-975h-6c59.txt ``` </pre>
+- GHSA-5mxq-jrf7-jcwr.txt
+─ GHSA-vc8x-jcfq-84g7.txt
+─ GHSA-46j9-975h-6c59.txt
 Each file includes:
 - CVE ID and metadata
 - Links to references
