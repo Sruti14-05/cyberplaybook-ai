@@ -1,0 +1,139 @@
+[
+    {
+        "id": null,
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": null
+    },
+    {
+        "id": "GHSA-vc8x-jcfq-84g7",
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": [
+            {
+                "type": "ADVISORY",
+                "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-6866"
+            },
+            {
+                "type": "WEB",
+                "url": "https://github.com/ez-lbz/poc/issues/22"
+            },
+            {
+                "type": "WEB",
+                "url": "https://code-projects.org"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?ctiid.314338"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?id.314338"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?submit.603581"
+            }
+        ]
+    },
+    {
+        "id": "GHSA-5mxq-jrf7-jcwr",
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": [
+            {
+                "type": "ADVISORY",
+                "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-6865"
+            },
+            {
+                "type": "WEB",
+                "url": "https://github.com/wwm1995/weiming_wang/blob/main/daicuocms_1.md"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?ctiid.314337"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?id.314337"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?submit.603563"
+            }
+        ]
+    },
+    {
+        "id": "GHSA-46j9-975h-6c59",
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": [
+            {
+                "type": "ADVISORY",
+                "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-6864"
+            },
+            {
+                "type": "WEB",
+                "url": "https://github.com/murongchengshu/zhicheng_tan/blob/main/SeaCMS_1.md"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?ctiid.314336"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?id.314336"
+            },
+            {
+                "type": "WEB",
+                "url": "https://vuldb.com/?submit.603562"
+            }
+        ]
+    },
+    {
+        "id": null,
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": null
+    },
+    {
+        "id": null,
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": null
+    },
+    {
+        "id": null,
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": null
+    },
+    {
+        "id": null,
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": null
+    },
+    {
+        "id": null,
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": null
+    },
+    {
+        "id": null,
+        "summary": null,
+        "cvss": null,
+        "published": null,
+        "references": null
+    }
+]

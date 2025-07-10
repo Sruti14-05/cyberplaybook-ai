@@ -1,0 +1,14 @@
+CVE ID: GHSA-5mxq-jrf7-jcwr
+Summary: None
+CVSS Score: None
+Published: None
+References:
+https://nvd.nist.gov/vuln/detail/CVE-2025-6865
+https://github.com/wwm1995/weiming_wang/blob/main/daicuocms_1.md
+https://vuldb.com/?ctiid.314337
+https://vuldb.com/?id.314337
+https://vuldb.com/?submit.603563
+
+
+AI Analysis:
+[!] Error calling OpenAI API: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.

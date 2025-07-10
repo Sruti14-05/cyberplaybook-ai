@@ -1,0 +1,15 @@
+CVE ID: GHSA-vc8x-jcfq-84g7
+Summary: None
+CVSS Score: None
+Published: None
+References:
+https://nvd.nist.gov/vuln/detail/CVE-2025-6866
+https://github.com/ez-lbz/poc/issues/22
+https://code-projects.org
+https://vuldb.com/?ctiid.314338
+https://vuldb.com/?id.314338
+https://vuldb.com/?submit.603581
+
+
+AI Analysis:
+[!] Error calling OpenAI API: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
