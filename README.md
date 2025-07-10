@@ -29,6 +29,7 @@ playbooks/
 - GHSA-5mxq-jrf7-jcwr.txt
 - GHSA-vc8x-jcfq-84g7.txt
 - GHSA-46j9-975h-6c59.txt
+
 Each file includes:
 - CVE ID and metadata
 - Links to references
